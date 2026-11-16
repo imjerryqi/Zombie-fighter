@@ -1,8 +1,9 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794853354
-collision_shape_2d.gd::GDScript::4480798338022676348::1794597434::0::1::::<>CollisionShape2D<><>0<>0<><>::
+::res://::1794855597
+collision_shape_2d.gd::GDScript::4480798338022676348::1794854432::0::1::::<>Area2d<><>0<>0<><>::
 health_pack.tscn::PackedScene::4989459738063465214::1794597578::0::1::::<><><>0<>0<><>::uid://ddjws3m1b1tk0::::res://assets/health_icon.svg<>uid://b43sdgvtm4hxk::::res://collision_shape_2d.gd
-player.gd::GDScript::4382265533277374634::1794597578::0::1::::<>Node2D<><>0<>0<><>::
-player.tscn::PackedScene::952663190646527746::1794597617::0::1::::<><><>0<>0<><>::uid://b3o2jjw8nct4e::::res://player.gd<>res://images.png
-::res://assets/::1794597368
+player.gd::GDScript::4382265533277374634::1794854432::0::1::::<>Node2D<><>0<>0<><>::
+player.tscn::PackedScene::952663190646527746::1794854626::0::1::::<><><>0<>0<><>::uid://b3o2jjw8nct4e::::res://player.gd
+::res://assets/::1794855597
 health_icon.svg::CompressedTexture2D::7389777390286247257::1793645495::1794597368::1::::<><><>0<>0<>6054930ecc112c47f7720d2cb85228ed<>res://.godot/imported/health_icon.svg-2b68f41b45c82d99dec5065e57636438.ctex::
+Stoic Teal-Coat Pixel Sprite.png::CompressedTexture2D::2200064219317555154::1794855589::1794855601::1::::<><><>0<>0<>c01e57575ef6401dc9652ecb8389d005<>res://.godot/imported/Stoic Teal-Coat Pixel Sprite.png-2002e7176445c20ab28614911515177f.ctex::

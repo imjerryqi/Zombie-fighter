@@ -1,4 +1,4 @@
-extends CollisionShape2D
+extends Area2d
 
 
 # Called when the node enters the scene tree for the first time.

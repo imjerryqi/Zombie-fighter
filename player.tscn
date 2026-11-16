@@ -1,19 +1,19 @@
 [gd_scene format=3 uid="uid://ntqhuo71k7ic"]
 
 [ext_resource type="Script" uid="uid://b3o2jjw8nct4e" path="res://player.gd" id="1_4flbx"]
-[ext_resource type="Texture2D" path="res://images.png" id="2_onrkg"]
+[ext_resource type="Texture2D" uid="uid://6ly0bd6cx74a" path="res://assets/Stoic Teal-Coat Pixel Sprite.png" id="2_onrkg"]
 
-[sub_resource type="CircleShape2D" id="CircleShape2D_giis2"]
-radius = 62.201286
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_onrkg"]
+size = Vector2(143, 297)
 
 [node name="Player" type="Node2D" unique_id=1439983181]
 script = ExtResource("1_4flbx")
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=770167755]
-position = Vector2(1.0000305, 3.0517578e-05)
-scale = Vector2(0.97539157, 0.8568232)
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1193844081]
+position = Vector2(5, 1.0000153)
+scale = Vector2(0.28323933, 0.2460568)
 texture = ExtResource("2_onrkg")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1201255944]
-position = Vector2(9, -2)
-shape = SubResource("CircleShape2D_giis2")
+position = Vector2(6.5, 9.5)
+shape = SubResource("RectangleShape2D_onrkg")
