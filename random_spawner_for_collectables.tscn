@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://yl2i62rwr3no"]
+
+[ext_resource type="Script" uid="uid://c5js556m37k0" path="res://random_spawner_for_collectables.gd" id="1_nsi3a"]
+
+[node name="Random Spawner for collectables" type="Node2D" unique_id=478859167]
+script = ExtResource("1_nsi3a")
+
+[node name="Timer" type="Timer" parent="." unique_id=545127171]

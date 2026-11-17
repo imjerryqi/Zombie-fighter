@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://bm112xuq23hnh"]
+
+[ext_resource type="Script" uid="uid://bek3g65pc7eem" path="res://random_spwaner_for_zombies.gd" id="1_bvfni"]
+
+[node name="Random Spwaner For Zombies" type="Node2D" unique_id=1394418288]
+script = ExtResource("1_bvfni")
+
+[node name="Timer" type="Timer" parent="." unique_id=12765083]
+wait_time = 3.0
+autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

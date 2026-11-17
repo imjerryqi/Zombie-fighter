@@ -1,19 +1,19 @@
 [gd_scene format=3 uid="uid://ntqhuo71k7ic"]
 
 [ext_resource type="Script" uid="uid://b3o2jjw8nct4e" path="res://player.gd" id="1_4flbx"]
-[ext_resource type="Texture2D" uid="uid://6ly0bd6cx74a" path="res://assets/Stoic Teal-Coat Pixel Sprite.png" id="2_onrkg"]
+[ext_resource type="Texture2D" uid="uid://ba8k46u554hk4" path="res://Prefab/83abf248-a079-4fdc-9f7a-41f73ef58914.png" id="3_i3pqv"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_onrkg"]
-size = Vector2(143, 297)
+size = Vector2(63.5, 158.5)
 
 [node name="Player" type="Node2D" unique_id=1439983181]
 script = ExtResource("1_4flbx")
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1193844081]
-position = Vector2(5, 1.0000153)
-scale = Vector2(0.28323933, 0.2460568)
-texture = ExtResource("2_onrkg")
-
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1201255944]
-position = Vector2(6.5, 9.5)
+position = Vector2(-0.75, 0.25)
 shape = SubResource("RectangleShape2D_onrkg")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1756589975]
+position = Vector2(-7.6293945e-06, 3.000122)
+scale = Vector2(0.093247585, 0.106324114)
+texture = ExtResource("3_i3pqv")
