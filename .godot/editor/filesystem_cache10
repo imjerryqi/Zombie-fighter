@@ -1,8 +1,8 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794940809
+::res://::1794942458
 health_pack.gd::GDScript::4480798338022676348::1794856376::0::1::::<>Area2D<><>0<>0<><>::
 health_pack.tscn::PackedScene::4989459738063465214::1794857066::0::1::::<><><>0<>0<><>::uid://ddjws3m1b1tk0::::res://assets/health_icon.svg<>uid://b43sdgvtm4hxk::::res://health_pack.gd
-player.gd::GDScript::4382265533277374634::1794854432::0::1::::<>Node2D<><>0<>0<><>::
+player.gd::GDScript::4382265533277374634::1794941952::0::1::::<>Node2D<><>0<>0<><>::
 player.tscn::PackedScene::952663190646527746::1794857058::0::1::::<><><>0<>0<><>::uid://b3o2jjw8nct4e::::res://player.gd<>uid://6ly0bd6cx74a::::res://assets/Stoic Teal-Coat Pixel Sprite.png
 ::res://assets/::1794855601
 health_icon.svg::CompressedTexture2D::7389777390286247257::1793645495::1794597368::1::::<><><>0<>0<>6054930ecc112c47f7720d2cb85228ed<>res://.godot/imported/health_icon.svg-2b68f41b45c82d99dec5065e57636438.ctex::

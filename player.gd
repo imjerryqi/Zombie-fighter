@@ -38,7 +38,7 @@ func _process(delta: float) -> void:
 func set_health(new_health: int) -> void:
 	health = new_health
 	if health > 100:
-		health = 100
+		health = 100 
 	if health <= 0:
 		queue_free()
 		
