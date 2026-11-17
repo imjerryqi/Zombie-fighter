@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cj7glsq7577y7"]
+
+[ext_resource type="Script" uid="uid://fbqgn3fbeh0v" path="res://Prefab/item_pickup.gd" id="1_m708l"]
+
+[node name="Item_spawner" type="Node2D" unique_id=387689946]
+script = ExtResource("1_m708l")
