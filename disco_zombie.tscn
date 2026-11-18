@@ -6,7 +6,7 @@
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_gjeq5"]
 size = Vector2(41, 89)
 
-[node name="Disco Zombie" type="Area2D" unique_id=1696695179]
+[node name="Disco Zombie" type="Area2D" unique_id=1696695179 groups=["Disco Zombie"]]
 position = Vector2(-540, -500)
 collision_layer = 4
 script = ExtResource("1_ntwng")
