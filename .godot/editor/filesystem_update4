@@ -1,4 +1,5 @@
-res://random_spawner_for_collectables.tscn
-res://random_spawner_for_collectables.gd
 res://player.tscn
+res://Prefab/item_pickup.gd
+res://health_pack.tscn
+res://health_pack.gd
 res://player.gd
