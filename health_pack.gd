@@ -1,7 +1,7 @@
 extends Node2D
 
 
-var item_prefabs := [preload("gem_item.tscn"), preload("health_pack.tscn")]
+var item_prefabs := [preload("coin.tscn"), preload("health_pack.tscn")]
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	pass # Replace with function body.

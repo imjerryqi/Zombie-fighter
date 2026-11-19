@@ -1,5 +1,2 @@
 res://player.tscn
-res://Prefab/item_pickup.gd
-res://health_pack.tscn
-res://health_pack.gd
-res://player.gd
+res://boost_zombie.gd
