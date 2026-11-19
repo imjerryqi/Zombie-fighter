@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://dpjsex8fdnap5"]
+
+[ext_resource type="Texture2D" uid="uid://c3jwu1dgspt0t" path="res://6ad9ee9e-1f8b-4224-a349-c714bc0caf09.png" id="1_ima7n"]
+[ext_resource type="PackedScene" uid="uid://cj7glsq7577y7" path="res://Prefab/item_pickup.tscn" id="2_vckmb"]
+[ext_resource type="PackedScene" uid="uid://yl2i62rwr3no" path="res://random_spawner_for_collectables.tscn" id="3_2ubnk"]
+[ext_resource type="PackedScene" uid="uid://bm112xuq23hnh" path="res://random_spwaner_for_zombies.tscn" id="4_5ct3j"]
+
+[node name="Zombie Fighter" type="Node2D" unique_id=563905493]
+
+[node name="6Ad9Ee9e1f8b4224A349C714Bc0Caf09" type="Sprite2D" parent="." unique_id=1155724588]
+position = Vector2(598.00006, 313.875)
+scale = Vector2(0.72727275, 0.695271)
+texture = ExtResource("1_ima7n")
+
+[node name="Item_spawner" parent="." unique_id=387689946 instance=ExtResource("2_vckmb")]
+position = Vector2(724.53485, 140.8575)
+scale = Vector2(0.72727275, 0.695271)
+
+[node name="Random Spawner for collectables" parent="." unique_id=478859167 instance=ExtResource("3_2ubnk")]
+
+[node name="Random Spwaner For Zombies" parent="." unique_id=1394418288 instance=ExtResource("4_5ct3j")]
