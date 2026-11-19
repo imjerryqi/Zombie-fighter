@@ -20,7 +20,7 @@ func _process(delta: float) -> void:
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_px21y"]
 size = Vector2(29.5, 74.5)
 
-[node name="Boost_Zombie" type="Area2D" unique_id=1568157341]
+[node name="Boost Zombie" type="Area2D" unique_id=1568157341 groups=["Boost Zombie"]]
 collision_layer = 4
 script = ExtResource("1_8yk1e")
 
