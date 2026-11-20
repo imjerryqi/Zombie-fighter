@@ -1,5 +1,5 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1795113404
+::res://::1795199539
 5e930ab0-e991-47d5-8571-3fea5885399b.png::CompressedTexture2D::5516908743340011757::1794596995::1794941648::1::::<><><>0<>0<>3a2165c25ad87b5751569f542ae226a1<>res://.godot/imported/5e930ab0-e991-47d5-8571-3fea5885399b.png-625e9f50726c82dc3a4df01223e4da57.ctex::
 6ad9ee9e-1f8b-4224-a349-c714bc0caf09.png::CompressedTexture2D::6758081249295402953::1795113404::1795113405::1::::<><><>0<>0<>d587fcd47dea6c8a6990cda17c172da8<>res://.godot/imported/6ad9ee9e-1f8b-4224-a349-c714bc0caf09.png-421eba157a08065ab92d147bdbf5a689.ctex::
 75b863ee-95d6-474a-a9a6-20021f564dc7.png::CompressedTexture2D::2842693385768632713::1794855380::1794941648::1::::<><><>0<>0<>e551552d22466656a2e0542eb809d2c1<>res://.godot/imported/75b863ee-95d6-474a-a9a6-20021f564dc7.png-718c3a21e497e8025e38be450c174781.ctex::
@@ -9,7 +9,7 @@
 9622bdae-ba1d-4007-a693-cd1602d9235a.png::CompressedTexture2D::5456298258434647484::1794942465::1794942452::1::::<><><>0<>0<>682a8a3eef79f1798c105dcf8c5c8f7e<>res://.godot/imported/9622bdae-ba1d-4007-a693-cd1602d9235a.png-c7ca73f661f36381bfdffd28f13a9be0.ctex::
 a2fa8518-49bf-4312-89be-16a4412713fa.png::CompressedTexture2D::1918462314945715589::1794854908::1794941648::1::::<><><>0<>0<>05a66ca3d019fdd98cd9a8793c1cdef1<>res://.godot/imported/a2fa8518-49bf-4312-89be-16a4412713fa.png-e60a1bbd44c7f8fbfd503af07b255299.ctex::
 boost_zombie.gd::GDScript::4436482127902559390::1794767266::0::1::::<>Area2D<><>0<>0<><>::
-boost_zombie.tscn::PackedScene::4601241846946914815::1794856623::0::1::::<><><>0<>0<><>::uid://b4hchhu4gbila::::res://boost_zombie.gd<>uid://ckuoxfg64xmgj::::res://5e930ab0-e991-47d5-8571-3fea5885399b.png
+boost_zombie.tscn::PackedScene::4601241846946914815::1795113437::0::1::::<><><>0<>0<><>::uid://b4hchhu4gbila::::res://boost_zombie.gd<>uid://ckuoxfg64xmgj::::res://5e930ab0-e991-47d5-8571-3fea5885399b.png
 bullet.gd::GDScript::8560684286066414951::1795026761::0::1::::<>Area2D<><>0<>0<><>::
 bullet.tscn::PackedScene::3741174871707555927::1795027001::0::1::::<><><>0<>0<><>::uid://ooorogj2hbyc::::res://Prefab/53e4993b-9265-48c1-b697-f8e1b7f56017.png<>uid://dt74hpxwfaghr::::res://bullet.gd
 coin.gd::GDScript::3675647568488899509::1794856440::0::1::::<>Area2D<><>0<>0<><>::
@@ -18,21 +18,21 @@ disco_zombie.gd::GDScript::3678039750953014793::1794855601::0::1::::<>Area2D<><>
 disco_zombie.tscn::PackedScene::1711525523647783003::1795027301::0::1::::<><><>0<>0<><>::uid://2lk1852kex1v::::res://a2fa8518-49bf-4312-89be-16a4412713fa.png<>uid://bsnw1ouf46vj2::::res://disco_zombie.gd
 gargantuar.gd::GDScript::5425300554543327772::1794767266::0::1::::<>Area2D<><>0<>0<><>::
 gargantuar.tscn::PackedScene::4941602914195022593::1794856682::0::1::::<><><>0<>0<><>::uid://cjkb54b4srm8c::::res://gargantuar.gd<>uid://413nejwp32q1::::res://522c8ea4-e43d-4821-8dd8-af55fde7bb5b.png
-health_pack.gd::GDScript::4480798338022676348::1795027634::0::1::::<>Node2D<><>0<>0<><>::
+health_pack.gd::GDScript::4480798338022676348::1795114423::0::1::::<>Area2D<><>0<>0<><>::
 health_pack.tscn::PackedScene::4989459738063465214::1794941559::0::1::::<><><>0<>0<><>::uid://ddjws3m1b1tk0::::res://assets/health_icon.svg<>uid://b43sdgvtm4hxk::::res://health_pack.gd
 icon.svg::CompressedTexture2D::7419447548537963804::1794596218::1794941647::1::::<><><>0<>0<>56a8db9086feaf3521bc37076c8e523e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 normal_zombie.gd::GDScript::2294272771623906145::1794767266::0::1::::<>Area2D<><>0<>0<><>::
 normal_zombie.tscn::PackedScene::4321053977137875309::1794856706::0::1::::<><><>0<>0<><>::uid://7xmlp8is0wgv::::res://normal_zombie.gd<>uid://cbv154bx50afd::::res://plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png
 plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png::CompressedTexture2D::4888015885296610933::1794596562::1794941647::1::::<><><>0<>0<>657bccd5d388624b3de0d2a83bf79aaf<>res://.godot/imported/plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png-eae1fa18bc699789ff3a312edab714ce.ctex::
-player.gd::GDScript::4382265533277374634::1795027634::0::1::::<>Area2D<><>0<>0<><>::
-player.tscn::PackedScene::952663190646527746::1795027634::0::1::::<><><>0<>0<><>::uid://b3o2jjw8nct4e::::res://player.gd<>uid://ba8k46u554hk4::::res://Prefab/83abf248-a079-4fdc-9f7a-41f73ef58914.png
+player.gd::GDScript::4382265533277374634::1795115560::0::1::::<>Node2D<><>0<>0<><>::
+player.tscn::PackedScene::952663190646527746::1795115560::0::1::::<><><>0<>0<><>::uid://b3o2jjw8nct4e::::res://player.gd<>uid://ba8k46u554hk4::::res://Prefab/83abf248-a079-4fdc-9f7a-41f73ef58914.png
 random_spawner_for_collectables.gd::GDScript::202889240593353197::1794941820::0::1::::<>Node2D<><>0<>0<><>::
 random_spawner_for_collectables.tscn::PackedScene::1708895718499444736::1794941820::0::1::::<><><>0<>0<><>::uid://c5js556m37k0::::res://random_spawner_for_collectables.gd
 random_spwaner_for_zombies.gd::GDScript::2689532301600172196::1794855623::0::1::::<>Node2D<><>0<>0<><>::
 random_spwaner_for_zombies.tscn::PackedScene::3283988726899702637::1794855692::0::1::::<><><>0<>0<><>::uid://bek3g65pc7eem::::res://random_spwaner_for_zombies.gd
 small_zombie.gd::GDScript::3887235497582740149::1794855582::0::1::::<>Area2D<><>0<>0<><>::
 small_zombie.tscn::PackedScene::2226287824232321224::1794856594::0::1::::<><><>0<>0<><>::uid://bvnag3a28cmph::::res://small_zombie.gd<>uid://bgra0k6kc6nb2::::res://75b863ee-95d6-474a-a9a6-20021f564dc7.png
-zombie_fighter.tscn::PackedScene::8231775413729039508::1795027065::0::1::::<><><>0<>0<><>::
+zombie_fighter.tscn::PackedScene::8231775413729039508::1795115318::0::1::::<><><>0<>0<><>::uid://ntqhuo71k7ic::::res://player.tscn<>uid://c3jwu1dgspt0t::::res://6ad9ee9e-1f8b-4224-a349-c714bc0caf09.png<>uid://cj7glsq7577y7::::res://Prefab/item_pickup.tscn<>uid://yl2i62rwr3no::::res://random_spawner_for_collectables.tscn<>uid://bm112xuq23hnh::::res://random_spwaner_for_zombies.tscn
 ::res://assets/::1794941647
 health_icon.svg::CompressedTexture2D::7389777390286247257::1794941559::1794941647::1::::<><><>0<>0<>6054930ecc112c47f7720d2cb85228ed<>res://.godot/imported/health_icon.svg-2b68f41b45c82d99dec5065e57636438.ctex::
 Stoic Teal-Coat Pixel Sprite.png::CompressedTexture2D::2200064219317555154::1794941559::1794941559::1::::<><><>0<>0<>c01e57575ef6401dc9652ecb8389d005<>res://.godot/imported/Stoic Teal-Coat Pixel Sprite.png-2002e7176445c20ab28614911515177f.ctex::

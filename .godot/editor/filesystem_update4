@@ -1,6 +1,2 @@
-res://disco_zombie.tscn
 res://player.gd
-res://health_pack.gd
-res://Prefab/item_pickup.gd
-res://zombie_fighter.tscn
-res://boost_zombie.tscn
+res://player.tscn
