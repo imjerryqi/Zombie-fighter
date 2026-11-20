@@ -1,4 +1,4 @@
-extends Area2D
+extends Node2D
 
 var max_speed := 1200.0
 var velocity := Vector2(0, 0)
@@ -18,7 +18,14 @@ func _process(delta: float) -> void:
 	var direction := Vector2(0, 0)
 	direction.x = Input.get_axis("move_left", "move_right")
 	direction.y = Input.get_axis("move_up", "move_down")
+	if Input.is_action_just_pressed("shoot"):
+		var item_scene : PackedScene = preload("bullet.tscn")
+		var item_instance := item_scene.instantiate()
+		get_tree().current_scene.add_child(item_instance)
+		item_instance.position = position
 
+	
+	
 	if direction.length() > 1.0:
 		direction = direction.normalized()
 
@@ -27,8 +34,7 @@ func _process(delta: float) -> void:
 	velocity += steering * steering_factor * delta
 	position += velocity * delta
 
-	if velocity.length() > 0.0:
-		get_node("Sprite2D").rotation = velocity.angle()
+	
 		
 	var viewport_size := get_viewport_rect().size
 	position.x = wrapf(position.x, 0, viewport_size.x)
@@ -41,13 +47,14 @@ func set_health(new_health: int) -> void:
 	if health < 0:
 		health = 0
 	
-	get_node("UI/ProgressBar").value = health
+
 
 func set_gem_count(new_gem_count: int) -> void:
 	gem_count = new_gem_count
 	get_node("UI/GemCount").text = "x" + str(gem_count)
 
 func _on_area_entered(area: Area2D) -> void:
+	
 	print(area.name)
 	print(area.get_groups())
 	if area.is_in_group("Health Pack"):
