@@ -1,5 +1,5 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1795200284
+::res://::1795200336
 boost_zombie.gd::GDScript::4436482127902559390::1795200024::0::1::::<>Area2D<><>0<>0<><>::
 boost_zombie.tscn::PackedScene::4601241846946914815::1795200247::0::1::::<><><>0<>0<><>::uid://b4hchhu4gbila::::res://boost_zombie.gd<>uid://ckuoxfg64xmgj::::res://assets/5e930ab0-e991-47d5-8571-3fea5885399b.png
 bullet.gd::GDScript::8560684286066414951::1795026761::0::1::::<>Area2D<><>0<>0<><>::
@@ -16,7 +16,7 @@ icon.svg::CompressedTexture2D::7419447548537963804::1794596218::1795200235::1:::
 normal_zombie.gd::GDScript::2294272771623906145::1794767266::0::1::::<>Area2D<><>0<>0<><>::
 normal_zombie.tscn::PackedScene::4321053977137875309::1795200284::0::1::::<><><>0<>0<><>::uid://7xmlp8is0wgv::::res://normal_zombie.gd<>uid://cbv154bx50afd::::res://assets/plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png
 player.gd::GDScript::4382265533277374634::1795199865::0::1::::<>Node2D<><>0<>0<><>::
-player.tscn::PackedScene::952663190646527746::1795200237::0::1::::<><><>0<>0<><>::uid://b3o2jjw8nct4e::::res://player.gd<>uid://ba8k46u554hk4::::res://assets/83abf248-a079-4fdc-9f7a-41f73ef58914.png
+player.tscn::PackedScene::952663190646527746::1795200300::0::1::::<><><>0<>0<><>::uid://b3o2jjw8nct4e::::res://player.gd<>uid://ba8k46u554hk4::::res://assets/83abf248-a079-4fdc-9f7a-41f73ef58914.png
 random_spawner_for_collectables.gd::GDScript::202889240593353197::1794941820::0::1::::<>Node2D<><>0<>0<><>::
 random_spawner_for_collectables.tscn::PackedScene::1708895718499444736::1794941820::0::1::::<><><>0<>0<><>::uid://c5js556m37k0::::res://random_spawner_for_collectables.gd
 random_spwaner_for_zombies.gd::GDScript::2689532301600172196::1794855623::0::1::::<>Node2D<><>0<>0<><>::

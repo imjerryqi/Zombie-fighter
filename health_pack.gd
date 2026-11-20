@@ -17,3 +17,7 @@ func _on_timer_timeout() -> void:
 	add_child(item_instance)
 	var viewport_size := get_viewport_rect().size
 	item_instance.position = Vector2(randf_range(0, viewport_size.x), randf_range(0, viewport_size.y))
+
+
+func _on_area_entered(area: Area2D) -> void:
+	pass # Replace with function body.
