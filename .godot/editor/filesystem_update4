@@ -1,2 +1,5 @@
+res://player.gd
 res://player.tscn
 res://boost_zombie.gd
+res://health_pack.gd
+res://health_pack.tscn
