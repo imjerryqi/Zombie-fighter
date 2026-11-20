@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://b6s41s2hqnoyp"]
 
 [ext_resource type="Script" uid="uid://b4hchhu4gbila" path="res://boost_zombie.gd" id="1_8yk1e"]
-[ext_resource type="Texture2D" uid="uid://ckuoxfg64xmgj" path="res://5e930ab0-e991-47d5-8571-3fea5885399b.png" id="1_b286q"]
+[ext_resource type="Texture2D" uid="uid://ckuoxfg64xmgj" path="res://assets/5e930ab0-e991-47d5-8571-3fea5885399b.png" id="1_b286q"]
 
 [sub_resource type="GDScript" id="GDScript_iqn5l"]
 script/source = "extends Sprite2D

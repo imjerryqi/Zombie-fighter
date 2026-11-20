@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://b2tfeluyf6tcv"]
 
 [ext_resource type="Script" uid="uid://7xmlp8is0wgv" path="res://normal_zombie.gd" id="1_varvs"]
-[ext_resource type="Texture2D" uid="uid://cbv154bx50afd" path="res://plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png" id="2_8hvg1"]
+[ext_resource type="Texture2D" uid="uid://cbv154bx50afd" path="res://assets/plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png" id="2_8hvg1"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_n574s"]
 size = Vector2(30, 56)

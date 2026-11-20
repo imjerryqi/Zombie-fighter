@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbv154bx50afd"
-path="res://.godot/imported/plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png-eae1fa18bc699789ff3a312edab714ce.ctex"
+uid="uid://2lk1852kex1v"
+path="res://.godot/imported/a2fa8518-49bf-4312-89be-16a4412713fa.png-2c35c4ed730a8e032b4980fcd82021c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png"
-dest_files=["res://.godot/imported/plants-vs-zombies-png-image-regular-zombie-png-plants-vs-zombies-wiki-fandom-powered-by-wikia-363.png-eae1fa18bc699789ff3a312edab714ce.ctex"]
+source_file="res://assets/a2fa8518-49bf-4312-89be-16a4412713fa.png"
+dest_files=["res://.godot/imported/a2fa8518-49bf-4312-89be-16a4412713fa.png-2c35c4ed730a8e032b4980fcd82021c3.ctex"]
 
 [params]
 

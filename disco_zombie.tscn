@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://yncttcjphb5t"]
 
-[ext_resource type="Texture2D" uid="uid://2lk1852kex1v" path="res://a2fa8518-49bf-4312-89be-16a4412713fa.png" id="1_c8guu"]
+[ext_resource type="Texture2D" uid="uid://2lk1852kex1v" path="res://assets/a2fa8518-49bf-4312-89be-16a4412713fa.png" id="1_c8guu"]
 [ext_resource type="Script" uid="uid://bsnw1ouf46vj2" path="res://disco_zombie.gd" id="1_ntwng"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_gjeq5"]
