@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://ccn0qiuc041c4"]
 
 [ext_resource type="Script" uid="uid://cjkb54b4srm8c" path="res://gargantuar.gd" id="1_63igq"]
-[ext_resource type="Texture2D" uid="uid://413nejwp32q1" path="res://522c8ea4-e43d-4821-8dd8-af55fde7bb5b.png" id="2_hjeq6"]
+[ext_resource type="Texture2D" uid="uid://413nejwp32q1" path="res://assets/522c8ea4-e43d-4821-8dd8-af55fde7bb5b.png" id="2_hjeq6"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_8yk1e"]
 size = Vector2(226, 172)

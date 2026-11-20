@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://6yovuj6e2b1y"]
 
 [ext_resource type="Script" uid="uid://bvnag3a28cmph" path="res://small_zombie.gd" id="1_32gnm"]
-[ext_resource type="Texture2D" uid="uid://bgra0k6kc6nb2" path="res://75b863ee-95d6-474a-a9a6-20021f564dc7.png" id="1_jhuxr"]
+[ext_resource type="Texture2D" uid="uid://bgra0k6kc6nb2" path="res://assets/75b863ee-95d6-474a-a9a6-20021f564dc7.png" id="1_jhuxr"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_gjeq5"]
 size = Vector2(70, 92)

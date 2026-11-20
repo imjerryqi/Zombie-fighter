@@ -1,7 +1,8 @@
 [gd_scene format=3 uid="uid://dpjsex8fdnap5"]
 
 [ext_resource type="PackedScene" uid="uid://ntqhuo71k7ic" path="res://player.tscn" id="1_2ubnk"]
-[ext_resource type="Texture2D" uid="uid://c3jwu1dgspt0t" path="res://6ad9ee9e-1f8b-4224-a349-c714bc0caf09.png" id="1_ima7n"]
+[ext_resource type="Texture2D" uid="uid://c3jwu1dgspt0t" path="res://assets/6ad9ee9e-1f8b-4224-a349-c714bc0caf09.png" id="1_ima7n"]
+[ext_resource type="PackedScene" uid="uid://cj7glsq7577y7" path="res://Prefab/item_pickup.tscn" id="2_vckmb"]
 [ext_resource type="PackedScene" uid="uid://yl2i62rwr3no" path="res://random_spawner_for_collectables.tscn" id="3_2ubnk"]
 [ext_resource type="PackedScene" uid="uid://bm112xuq23hnh" path="res://random_spwaner_for_zombies.tscn" id="4_5ct3j"]
 
