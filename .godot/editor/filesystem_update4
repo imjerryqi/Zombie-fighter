@@ -1,12 +1,4 @@
-res://zombie_fighter.tscn
-res://boost_zombie.gd
-res://random_spawner_for_collectables.gd
-res://random_spawner_for_collectables.tscn
-res://bullet.gd
-res://bullet.tscn
-res://health_pack.gd
-res://health_pack.tscn
-res://coin.gd
-res://coin.tscn
 res://player.gd
+res://boost_zombie.gd
 res://player.tscn
+res://zombie_fighter.tscn

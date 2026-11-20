@@ -1,4 +1,7 @@
-Timer
-Area2D
+Label
 Sprite2D
+ProgressBar
+Control
+Area2D
+Timer
 CollisionShape2D

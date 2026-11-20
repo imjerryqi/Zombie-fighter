@@ -16,10 +16,6 @@ position = Vector2(598.00006, 313.875)
 scale = Vector2(0.72727275, 0.695271)
 texture = ExtResource("1_ima7n")
 
-[node name="Item_spawner" parent="." unique_id=387689946 instance=ExtResource("2_vckmb")]
-position = Vector2(724.53485, 140.8575)
-scale = Vector2(0.72727275, 0.695271)
-
 [node name="Random Spawner for collectables" parent="." unique_id=478859167 instance=ExtResource("3_2ubnk")]
 
 [node name="Random Spwaner For Zombies" parent="." unique_id=1394418288 instance=ExtResource("4_5ct3j")]
