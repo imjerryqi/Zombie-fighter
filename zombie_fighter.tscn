@@ -8,9 +8,10 @@
 
 [node name="Zombie Fighter" type="Node2D" unique_id=563905493]
 
-[node name="Player" parent="." unique_id=1439983181 instance=ExtResource("1_2ubnk")]
+[node name="Player" parent="." unique_id=1439983181 groups=["Player"] instance=ExtResource("1_2ubnk")]
 
 [node name="6Ad9Ee9e1f8b4224A349C714Bc0Caf09" type="Sprite2D" parent="." unique_id=1155724588]
+z_index = -1
 position = Vector2(598.00006, 313.875)
 scale = Vector2(0.72727275, 0.695271)
 texture = ExtResource("1_ima7n")

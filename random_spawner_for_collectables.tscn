@@ -6,3 +6,6 @@
 script = ExtResource("1_nsi3a")
 
 [node name="Timer" type="Timer" parent="." unique_id=545127171]
+autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
